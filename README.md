@@ -1,6 +1,6 @@
 # Song-Searching-Engine-CIS-22C-
 
-This project query songs from a database read from a text file.
+This project create a database read from a text file and query songs from it.
 
 Searching by a keyword in songs' lyrics then return a BST of songs that contain that keyword.
 
